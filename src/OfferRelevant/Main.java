@@ -8,4 +8,5 @@ public class Main {
         scanner.close();
         int nextInt = scanner.nextInt();
     }
+
 }
